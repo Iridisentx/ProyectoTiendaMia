@@ -1,1 +1,0 @@
-v2: Se añade lógica de validación para evitar el envío del formulario si alguno de los campos (usuario o contraseña) está vacío. Además, se incorpora un mensaje de error contextual que cambia según el rol que se intenta autenticar, ayudando al usuario a identificar si el problema es de credenciales o de permisos.
