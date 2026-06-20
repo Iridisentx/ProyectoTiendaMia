@@ -1,1 +1,1 @@
-v1: Se crea el módulo de reportes de ventas diarias, cuyo acceso está restringido únicamente al administrador, dado que contiene información sensible del negocio.
+v2: Se incorporan filtros de búsqueda que permiten consultar las ventas por rango de fecha y también por vendedor específico, facilitando el análisis segmentado de la información.
