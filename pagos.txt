@@ -1,0 +1,1 @@
+v1: Se desarrolla el módulo de cobro en caja, permitiendo registrar ventas mediante dos métodos de pago: efectivo y tarjeta. Es la funcionalidad base sin validaciones de seguridad sobre los datos de pago.

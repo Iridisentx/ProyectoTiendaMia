@@ -1,0 +1,1 @@
+v1: Se implementa el formulario de inicio de sesión con dos campos de entrada: usuario y contraseña. El sistema reconoce dos roles diferenciados que son: usuario estándar y administrador. Cada uno con permisos distintos dentro de la aplicación. En esta versión no existe ninguna validación adicional y el formulario solo captura los datos.
