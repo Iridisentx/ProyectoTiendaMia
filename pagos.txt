@@ -1,1 +1,0 @@
-v2: Se agregan validaciones específicas para pagos con tarjeta: verificación del formato del número de tarjeta, comprobación de que la fecha de vencimiento sea válida (no expirada) y validación del código CVV, reduciendo el riesgo de errores o fraudes en la transacción.
